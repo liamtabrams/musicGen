@@ -30,9 +30,9 @@ The goal of this project is to create a program that produces music generated fr
 4. See what postprocessing procedures we can employ in the program to improve output.
 
 Going above and beyond:  
-5. We could see if we can produce "hybrid" genres of music by training on a data set composed of different genres or by superposing outputs from different genres, which would require specifying tempo and perhaps key.
-6. See if we can make a UI on the front end that will allow a user to interact with the program, and customize and generate the output, preferably a website.
-7. Look into making our own web archive which includes the data we used plus a way to add new songs to the data set, as well as the ability for users to vote on the genre for a given song and categorize the data in a democratic fashion.
+5. We could see if we can produce "hybrid" genres of music by training on a data set composed of different genres or by superposing outputs from different genres, which would require specifying tempo and perhaps key.  
+6. See if we can make a UI on the front end that will allow a user to interact with the program, and customize and generate the output, preferably a website.  
+7. Look into making our own web archive which includes the data we used plus a way to add new songs to the data set, as well as the ability for users to vote on the genre for a given song and categorize the data in a democratic fashion.  
 
 Our main goal of the project will be to produce the program described herein, however, we will also want to obtain some sort of analysis/insight from what we have done in the project to present at the end.
 
